@@ -11,7 +11,7 @@
 				{
 					"config": {
 						"metadata": {
-							"edgeId": "edgtls_2fmnzYF3IbtcVx0extubrmFl4Ah",
+							"edgeId": "edgtls_2gbxwhreRXIEXnL1eh36URrIDhU",
 							"message": "Invalid TLS Version"
 						}
 					},
@@ -22,7 +22,7 @@
 					"type": "deny"
 				}
 			],
-			"expressions": ["conn.TLS.Version.contains('1.3')"],
+			"expressions": ["conn.tls.version.contains('1.3')"],
 			"name": "AllowTLS1.3"
 		}
 	],

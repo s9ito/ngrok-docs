@@ -7,39 +7,39 @@
 	"ip_policy_rules": [
 		{
 			"action": "allow",
-			"cidr": "132.2.19.0/24",
-			"created_at": "2024-04-29T18:29:36Z",
-			"description": "sf office",
-			"id": "ipr_2fmnyhMp4mhwcsRXQVxCjhM1jNt",
+			"cidr": "2.2.2.2/32",
+			"created_at": "2024-05-17T21:11:51Z",
+			"description": "alan laptop",
+			"id": "ipr_2gbxvsb6tmmQCoGK5qy0NKkZPjO",
 			"ip_policy": {
-				"id": "ipp_2fmnygGTPshvOaAUv2rKCt9k9qH",
-				"uri": "https://api.ngrok.com/ip_policies/ipp_2fmnygGTPshvOaAUv2rKCt9k9qH"
+				"id": "ipp_2gbxvuLzBFdDicOtnRvSh4s55V6",
+				"uri": "https://api.ngrok.com/ip_policies/ipp_2gbxvuLzBFdDicOtnRvSh4s55V6"
 			},
-			"uri": "https://api.ngrok.com/ip_policy_rules/ipr_2fmnyhMp4mhwcsRXQVxCjhM1jNt"
+			"uri": "https://api.ngrok.com/ip_policy_rules/ipr_2gbxvsb6tmmQCoGK5qy0NKkZPjO"
 		},
 		{
 			"action": "allow",
 			"cidr": "212.3.14.0/24",
-			"created_at": "2024-04-29T18:29:36Z",
+			"created_at": "2024-05-17T21:11:51Z",
 			"description": "nyc office",
-			"id": "ipr_2fmnyfCgJDSbEExjFqfkbT5VSQT",
+			"id": "ipr_2gbxvo4FS9n2RZ0PFdPY75JSoQ7",
 			"ip_policy": {
-				"id": "ipp_2fmnygGTPshvOaAUv2rKCt9k9qH",
-				"uri": "https://api.ngrok.com/ip_policies/ipp_2fmnygGTPshvOaAUv2rKCt9k9qH"
+				"id": "ipp_2gbxvuLzBFdDicOtnRvSh4s55V6",
+				"uri": "https://api.ngrok.com/ip_policies/ipp_2gbxvuLzBFdDicOtnRvSh4s55V6"
 			},
-			"uri": "https://api.ngrok.com/ip_policy_rules/ipr_2fmnyfCgJDSbEExjFqfkbT5VSQT"
+			"uri": "https://api.ngrok.com/ip_policy_rules/ipr_2gbxvo4FS9n2RZ0PFdPY75JSoQ7"
 		},
 		{
 			"action": "allow",
-			"cidr": "2.2.2.2/32",
-			"created_at": "2024-04-29T18:29:36Z",
-			"description": "alan laptop",
-			"id": "ipr_2fmnyfBdMW5prt1OMlcd9clRbbq",
+			"cidr": "132.2.19.0/24",
+			"created_at": "2024-05-17T21:11:51Z",
+			"description": "sf office",
+			"id": "ipr_2gbxvnzTl1quKausZG8GNejiabb",
 			"ip_policy": {
-				"id": "ipp_2fmnygGTPshvOaAUv2rKCt9k9qH",
-				"uri": "https://api.ngrok.com/ip_policies/ipp_2fmnygGTPshvOaAUv2rKCt9k9qH"
+				"id": "ipp_2gbxvuLzBFdDicOtnRvSh4s55V6",
+				"uri": "https://api.ngrok.com/ip_policies/ipp_2gbxvuLzBFdDicOtnRvSh4s55V6"
 			},
-			"uri": "https://api.ngrok.com/ip_policy_rules/ipr_2fmnyfBdMW5prt1OMlcd9clRbbq"
+			"uri": "https://api.ngrok.com/ip_policy_rules/ipr_2gbxvnzTl1quKausZG8GNejiabb"
 		}
 	],
 	"next_page_uri": null,
